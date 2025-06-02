@@ -1,0 +1,18 @@
+start
+new string card_number
+new string name
+new string expire_date
+new string code
+set card_number "1234 5678 8765 4321"
+set expire_date "12/35"
+set code "911"
+set name "Arthur Morgan"
+log string " _________________________________________ "
+log string " |                                       | "
+log string " |   " + card_number + "   | "
+log string " |        " + expire_date + "     " + code + "        | "
+log string " |                                       | "
+log string " |   " + name + "               | "
+log string " |                                       | "
+log string " _________________________________________ "
+finish
