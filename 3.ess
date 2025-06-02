@@ -1,9 +1,9 @@
 start
-new string b
-new string i
-new string n
-new string g
-new string o
+new b string
+new i string
+new n string
+new g string
+new o string
 set b "B"
 set i "I"
 set n "N"
