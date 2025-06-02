@@ -1,8 +1,8 @@
 start
-new string card_number
-new string name
-new string expire_date
-new string code
+new card_number string
+new name string
+new expire_date string
+new code string
 set card_number "1234 5678 8765 4321"
 set expire_date "12/35"
 set code "911"
